@@ -37,7 +37,7 @@ rss:
 footer:
   # Specify the date when the site was setup.
   # If not defined, current year will be used.
-  since: 2017
+  since: 2019-07-27
 
   # Icon between year and copyright info.
   icon: user
@@ -356,12 +356,12 @@ mathjax:
 han: false
 
 # Swiftype Search API Key
-swiftype_key: 
+swiftype_key:
 
 # Baidu Analytics ID
-baidu_analytics: 
+baidu_analytics:
 
-baidu-site-verification: 
+baidu-site-verification:
 
 # Duoshuo ShortName
 #duoshuo_shortname:
@@ -405,7 +405,7 @@ valine:
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-livere_uid: 
+livere_uid:
 
 # Gitment
 # Introduction: https://imsun.net/posts/gitment-introduction/
@@ -542,8 +542,8 @@ rating:
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
   enable: true
-  app_id: 
-  app_key: 
+  app_id:
+  app_key:
 
 # Another tool to show number of visitors to each article.
 # visit https://console.firebase.google.com/u/0/ to get apiKey and projectId
