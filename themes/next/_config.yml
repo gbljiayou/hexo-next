@@ -90,6 +90,7 @@ menu:
   archives: /archives || archive
   about: /about || user
   commonweal: /404.html || heartbeat
+  search: /search || search
 #  schedule: /schedule || schedule
 #  sitemap: /sitemap.xml || sitemap
 
