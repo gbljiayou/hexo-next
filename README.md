@@ -12,3 +12,6 @@ hexo deploy
 
 ### 4：hexo中文官网
 https://hexo.io/zh-cn/
+
+### 5：tree.md生成命令
+tree -I "node_modules|public" -L 3 > tree.md
