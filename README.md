@@ -4,7 +4,7 @@
 git clone https://github.com/gbljiayou/hexo-next.git
 
 ### 2：本地启动
-hexo server -p 8080
+hexo s -p 8080 --debug
 
 ### 3：部署到远程git
 hexo deploy
